@@ -1,0 +1,9 @@
+/Users/mariashtereva/Projects/MODULE_2/EX_2/bin/Debug/netcoreapp3.1/EX_2.deps.json
+/Users/mariashtereva/Projects/MODULE_2/EX_2/bin/Debug/netcoreapp3.1/EX_2.runtimeconfig.json
+/Users/mariashtereva/Projects/MODULE_2/EX_2/bin/Debug/netcoreapp3.1/EX_2.runtimeconfig.dev.json
+/Users/mariashtereva/Projects/MODULE_2/EX_2/bin/Debug/netcoreapp3.1/EX_2.dll
+/Users/mariashtereva/Projects/MODULE_2/EX_2/bin/Debug/netcoreapp3.1/EX_2.pdb
+/Users/mariashtereva/Projects/MODULE_2/EX_2/obj/Debug/netcoreapp3.1/EX_2.AssemblyInfoInputs.cache
+/Users/mariashtereva/Projects/MODULE_2/EX_2/obj/Debug/netcoreapp3.1/EX_2.AssemblyInfo.cs
+/Users/mariashtereva/Projects/MODULE_2/EX_2/obj/Debug/netcoreapp3.1/EX_2.dll
+/Users/mariashtereva/Projects/MODULE_2/EX_2/obj/Debug/netcoreapp3.1/EX_2.pdb
