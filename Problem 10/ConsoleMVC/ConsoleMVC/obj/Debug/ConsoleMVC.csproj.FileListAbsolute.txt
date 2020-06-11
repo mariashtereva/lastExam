@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\ConsoleMVC\ConsoleMVC\bin\Debug\ConsoleMVC.exe.config
+C:\Users\Dell\Desktop\ConsoleMVC\ConsoleMVC\bin\Debug\ConsoleMVC.exe
+C:\Users\Dell\Desktop\ConsoleMVC\ConsoleMVC\bin\Debug\ConsoleMVC.pdb
+C:\Users\Dell\Desktop\ConsoleMVC\ConsoleMVC\obj\Debug\ConsoleMVC.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\ConsoleMVC\ConsoleMVC\obj\Debug\ConsoleMVC.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ConsoleMVC\ConsoleMVC\obj\Debug\ConsoleMVC.exe
+C:\Users\Dell\Desktop\ConsoleMVC\ConsoleMVC\obj\Debug\ConsoleMVC.pdb
