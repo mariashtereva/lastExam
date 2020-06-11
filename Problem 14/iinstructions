@@ -1,0 +1,8 @@
+open the file with right click in the folder - open with VS Code
+click new terminal
+write ghci in the console
+write :l nameofthefile.hs
+then the input should be
+nThElement [1,2,3,4,5] 4
+or
+nThElement [1,2,3,4,5,6,7,8,9,10] 1
