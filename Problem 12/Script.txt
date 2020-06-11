@@ -1,0 +1,6 @@
+!#/bin/bash
+mkdir documents
+mkdir games
+touch students.txt
+echo "42" >> students.txt
+mv students.txt games
