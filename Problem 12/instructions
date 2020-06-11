@@ -1,0 +1,4 @@
+mkdir directory- creates a directory
+touch file.txt - creates a file
+echo "something" >> file.exe- adds text to file
+mv file.txt newdirectory - moves a file to a new directory
